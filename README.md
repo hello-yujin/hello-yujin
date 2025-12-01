@@ -9,3 +9,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### ✨ Activities
+
+- 🦁 **명지대학교 멋쟁이사자처럼 12기 FE 운영진**
+- 🦁 **명지대학교 멋쟁이사자처럼 13기 FE 파트장**
+- 🌐 **SOPT 37기 Web YB**
